@@ -1,0 +1,9 @@
+{
+  "ProjectName": "KuzorovProject",
+  "BuildVersion": "2",
+  "ServerAddress": "127.0.0.1",
+  "ServerPort": 25565,
+  "ModsArchiveUrl": "https://github.com/kuzoraaa/KuzorovProject-Mods/releases/download/v1.0/mods.zip",
+  "ModsArchiveSha256": "F3D1722D29EB21DEAAFC26CC5746B5F0BBB653E7957D8EDA6C9A1C20DBC2D6A8",
+  "Files": []
+}
